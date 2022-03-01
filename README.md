@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @CyberhackerYT
-- 👀 I’m interested in: hack UserScripts
-- 🌱 I’m currently learning: making UserScript..
-- 📫 How to reach me: going to my yt and going to my site
+i am 12 And i do hack clients and UserScripts
+
+- 🌱 I’m currently learning: making better UserScripts..
+yeah 
